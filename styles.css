@@ -3,3 +3,8 @@ body{
     color: #9384D1;
     text-align: center;
 }
+
+.header{
+    border-bottom: 2px solid #9384D1;
+    padding-bottom: 40px;
+}
