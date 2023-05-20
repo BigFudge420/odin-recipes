@@ -1,17 +1,12 @@
 body{
-    background-color: #F6F7C1;
-    color: #9384D1;
+    background-color: #FB9F89;
+    color: #37371F;
     text-align: center;
 }
+ h1{
+    font-size: 40px;
+ }
 
 .header{
-    border-bottom: 2px solid #9384D1;
-
-}
-
-.logo{
-    width: 300px;
-    height: auto;
-    position: relative;
-    top: -10px
+    border-bottom: 2px solid #37371F;
 }
