@@ -47,7 +47,6 @@ div img{
     background-color: #FFFFFF;
     color: #000000;
     padding:20px;
-    flex-grow: 3;
 }
 
 .description{
@@ -64,8 +63,7 @@ div img{
 }
 
 .description,
-.steps,
-.ingredients{
+.steps{
     padding:0 20px 0px 20px;
 }
 
