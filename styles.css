@@ -1,6 +1,6 @@
 body{
-    background-color: #FB9F89;
-    color: #37371F;
+    background-color: #000000;
+    color: #FFFFFF;
     text-align: center;
 }
  h1{
@@ -8,5 +8,34 @@ body{
  }
 
 .header{
-    border-bottom: 2px solid #37371F;
+    border-bottom: 2px solid #FFFFFF;
+}
+
+.rp img:hover{
+    transform: scale(1.05);
+    transition: all ease ;
+    border-radius: 15px;
+    box-shadow: 0 0 5px rgb(255, 255, 255);
+
+}
+
+div img{
+    width:350px;
+    height:auto;
+
+}
+
+.rp{
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+    align-items:center;
+    width:400px;
+    text-align: center;
+
+}
+
+.content{
+    gap: 40px;
+    display: flex;
 }
