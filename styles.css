@@ -37,7 +37,9 @@ div img{
 .content{
     gap: 40px;
     display: flex;
-    padding-top: 80px;
+    padding-top: 40px;
+    border: 2px solid #FFFFFF;
+    margin-top: 40px;
 }
 
 #pizza{
