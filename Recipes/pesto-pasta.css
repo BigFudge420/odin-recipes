@@ -23,3 +23,20 @@ body{
     display: flex;
 }
 
+.left{
+    
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+    padding-left: 30px;
+    width:420px;
+    height: 1507px;
+}
+
+div img{
+    
+    width:350px;
+    height:auto;
+}
+
+
