@@ -1,6 +1,9 @@
 body{
     background-color: #000000;
     color: #FFFFFF;
+}
+
+h1{
     text-align: center;
 }
 
@@ -61,8 +64,8 @@ div img{
 }
 
 .description,
-.steps{
+.steps,
+.ingredients{
     padding:0 20px 0px 20px;
-    border-bottom: -100px;
 }
 
