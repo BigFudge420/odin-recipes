@@ -47,4 +47,10 @@ div img{
     flex-grow: 3;
 }
 
+.description{
+    border-radius: 10px;
+    border:1px solid rgb(41, 41, 41);
+    height:500px;
+}
+
 
