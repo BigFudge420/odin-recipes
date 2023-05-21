@@ -25,11 +25,10 @@ div img{
     font-size: 20px;
     gap: 40px;
 }
-
 .description {
     order: 1;
     border-radius: 10px;
-    border: 1px solid rgb(255, 255, 255);
+    border: 1px solid rgb(41, 41, 41);
     padding: 20px;
 }
 
@@ -37,11 +36,8 @@ div img{
     flex: 1;
     margin-top: 20px;
     border-radius: 10px;
-    border: 1px solid rgb(255, 255, 255);
-    padding:10px 20px 0px 20px;
-    position: relative;
-    top: -20px;
-    margin-bottom: 350px;
+    border: 1px solid rgb(71, 71, 71);
+    padding: 20px;
 }
 
 .left{
@@ -60,3 +56,4 @@ div img{
     color: #000000;
     padding:20px;
 }
+
