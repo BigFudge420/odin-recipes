@@ -10,6 +10,7 @@ body{
 .header{
     border: 2px solid #FFFFFF;
     margin-top: 30px;
+    border-radius: 15px;
 }
 
 .rp img:hover{
@@ -41,6 +42,7 @@ div img{
     padding-top: 40px;
     border: 2px solid #FFFFFF;
     margin-top: 40px;
+    border-radius: 15px;
 }
 
 #pizza{
