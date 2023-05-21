@@ -32,10 +32,14 @@ div img{
     align-items:center;
     width:400px;
     text-align: center;
-
 }
 
 .content{
     gap: 40px;
     display: flex;
+}
+
+#pizza{
+    width: 490px;
+
 }
