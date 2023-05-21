@@ -60,5 +60,9 @@ div img{
     height: 987px;
 }
 
-
+.description,
+.steps{
+    padding:0 20px 0px 20px;
+    border-bottom: -100px;
+}
 
