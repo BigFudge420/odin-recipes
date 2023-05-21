@@ -53,4 +53,12 @@ div img{
     height:500px;
 }
 
+.steps{
+    margin-top:20px;
+    border-radius: 10px;
+    border:1px solid rgb(71, 71, 71);
+    height: 987px;
+}
+
+
 
