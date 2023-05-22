@@ -33,6 +33,7 @@ div img{
     padding: 20px;
     margin-right: 20px;
     margin-left: 25px;
+    margin-top: -20px;
 }
 
 .steps {
@@ -42,9 +43,11 @@ div img{
     border: 1px solid rgb(255, 255, 255);
     padding:10px 20px 0px 20px;
     position: relative;
+    font-size: 28px;
     top: -20px;
-    margin-bottom: 350px;
+    margin-bottom: -20px;
     margin-right: 20px;
+    height: 770px;
 }
 
 .left{
@@ -62,5 +65,5 @@ div img{
     background-color: #FFFFFF;
     color: #000000;
     padding:20px;
-    width: 1200px;
+    
 }
